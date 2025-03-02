@@ -29,3 +29,7 @@
   - Scurrius spine lamps
 - prevent non-quest interactions that grant defense xp
   - training with Daero
+  - tears of guthix
+  - pest control
+  - soul wars
+  - shazien intelligence 
